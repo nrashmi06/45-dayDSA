@@ -2,6 +2,7 @@ package Arrays;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Arrays;
 
 public class ThreeSum {
     public static List<List<Integer>> threeSum(int[] nums) {
